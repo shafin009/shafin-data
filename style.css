@@ -1,0 +1,17 @@
+/*---------Background Image--------*/
+
+body{
+    background-image:url("bi2.jfif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   
+}
+footer{
+    background-color: black;
+   
+}
+
+#table{
+    display: none;
+}
