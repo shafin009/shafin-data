@@ -1,13 +1,6 @@
-const details = () => {
+c
 
 
 
 
-}
 
-
-
-                      
-
-
-                      
